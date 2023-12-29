@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../IoT_Assignment_BVLLR5/.idea/IoT_Assignment_BVLLR5.iml" filepath="$PROJECT_DIR$/../IoT_Assignment_BVLLR5/.idea/IoT_Assignment_BVLLR5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python_Assignment.iml" filepath="$PROJECT_DIR$/.idea/python_Assignment.iml" />
+    </modules>
+  </component>
+</project>
